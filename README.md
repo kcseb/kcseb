@@ -13,12 +13,12 @@
 
 ### Connect with me:
 
-[<img align="" alt="kcSeb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kcseb.digital) My Website  
-[<img align="" alt="kcSeb | LBRY" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/lbry.svg" />](https://lbry.to/kcseb) My LBRY Channel  
-[<img align="" alt="kcSeb | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCP0Ai3debOWzKpSQbyg6HpA) My YouTube Channel  
-[<img align="" alt="kcSeb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />](https://twitter.com/kcsebby) My Keybase  
-[<img align="" alt="kcSeb | LBRY" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kcsebby) My Twitter  
-[<img align="" alt="kcSeb | LBRY" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://chat.kcseb.digital) My Discord Server
+My Website - https://kcseb.digital  
+My LBRY Channel - https://open.lbry.com/@kcSebOfficial:0 OR `lbry://@kcSebOfficial`  
+My YouTube Channel - https://www.youtube.com/channel/UCP0Ai3debOWzKpSQbyg6HpA  
+My Keybase - https://keybase.io/kcseb  
+My Twitter - https://twitter.com/kcsebby  
+My Discord Server - https://chat.kcseb.digital 
 
 <br />
 
