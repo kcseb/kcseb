@@ -3,9 +3,8 @@
 ## I'm a (soon-to-be) Husband, Content Creator, Business Owner, and Freelance Web-Developer!
 
 #### Some Tid-Bits about me!~
-- I am currently working on content creation on both LBRY and YouTube
-- I am helping with maintaining community packages for [LBRY's](https://github.com/lbryio) Arch Linux (AUR) and Flatpak builds. 
-- I am currently engaged to my fiance of 4-years. 
+- I am the owner and founder of [Have Freedom Hosting](https://hfhosting.us)
+- I am currently engaged to my fiance of 5-years. 
 - I am absolutely in love with technology, gaming, photography, and content creation. 
 
 <br />
@@ -13,9 +12,8 @@
 
 ### Connect with me:
 
-My Website - https://kcseb.digital  
-My LBRY Channel - https://open.lbry.com/@kcSebOfficial:0 OR `lbry://@kcSebOfficial`  
-My YouTube Channel - https://www.youtube.com/channel/UCP0Ai3debOWzKpSQbyg6HpA  
+My Website - https://kcseb.digital   
+My YouTube Channel - https://www.youtube.com/c/kcsebby 
 My Keybase - https://keybase.io/kcseb  
 My Twitter - https://twitter.com/kcsebby  
 My Discord Server - https://chat.kcseb.digital 
@@ -45,9 +43,8 @@ My Discord Server - https://chat.kcseb.digital
 
 [website]: https://kcseb.digital
 [twitter]: https://twitter.com/kcsebby
-[youtube]: https://www.youtube.com/channel/UCP0Ai3debOWzKpSQbyg6HpA
+[youtube]: https://www.youtube.com/c/kcsebby
 [instagram]: https://instagram.com/kcseb
 [linkedin]: https://www.linkedin.com/in/kenneth-cremeans?
-[lbry]: https://lbry.tv/@kcSebOfficial
 [keybase]: https://keybase.io/kcseb
 
