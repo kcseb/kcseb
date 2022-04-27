@@ -13,7 +13,7 @@
 ### Connect with me:
 
 My Website - https://kcseb.digital   
-My YouTube Channel - https://www.youtube.com/c/kcsebby 
+My YouTube Channel - https://www.youtube.com/c/kcsebby  
 My Keybase - https://keybase.io/kcseb  
 My Twitter - https://twitter.com/kcsebby  
 My Discord Server - https://chat.kcseb.digital 
