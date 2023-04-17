@@ -4,7 +4,7 @@
 
 #### Some Tid-Bits about me!~
 - I am the owner and founder of [Have Freedom Hosting](https://hfhosting.us)
-- I am currently engaged to my fiance of 5-years. 
+- I am currently engaged to my fiance of 7-years. 
 - I am absolutely in love with technology, gaming, photography, and content creation. 
 
 <br />
@@ -14,9 +14,9 @@
 
 My Website - https://kcseb.digital   
 My YouTube Channel - https://www.youtube.com/c/kcsebby  
-My Keybase - https://keybase.io/kcseb  
-My Twitter - https://twitter.com/kcsebby  
+My Mastodon - https://mstdn.social/@kcSeb
 My Discord Server - https://chat.kcseb.digital 
+More and more... https://kcseb.digital/find-kc.pdf  
 
 <br />
 
@@ -42,9 +42,6 @@ My Discord Server - https://chat.kcseb.digital
 <img align="left" alt="kcSeb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcSeb&show_icons=true&hide_border=true" />
 
 [website]: https://kcseb.digital
-[twitter]: https://twitter.com/kcsebby
 [youtube]: https://www.youtube.com/c/kcsebby
-[instagram]: https://instagram.com/kcseb
 [linkedin]: https://www.linkedin.com/in/kenneth-cremeans?
-[keybase]: https://keybase.io/kcseb
 
