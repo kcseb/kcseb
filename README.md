@@ -14,7 +14,7 @@
 
 My Website - https://kcseb.digital   
 My YouTube Channel - https://www.youtube.com/c/kcsebby  
-My Mastodon - https://mstdn.social/@kcSeb
+My Mastodon - https://mstdn.social/@kcSeb  
 My Discord Server - https://chat.kcseb.digital 
 More and more... https://kcseb.digital/find-kc.pdf  
 
