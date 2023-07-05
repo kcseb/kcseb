@@ -1,11 +1,10 @@
 ### Heya, I'm Kenneth Sebastian Cremeans - aka [kcSeb](https://kcseb.digital]) 
 
-## I'm a (soon-to-be) Husband, Content Creator, Business Owner, and Freelance Web-Developer!
-
+## I'm a <!--(soon-to-be)--> Husband, Content Creator, Business Owner, Photographer, and too much more to name. I tend to call myself a freelance-dilettante. 
 #### Some Tid-Bits about me!~
 - I am the owner and founder of [Have Freedom Hosting](https://hfhosting.us)
-- I am currently engaged to my fiance of 7-years. 
-- I am absolutely in love with technology, gaming, photography, and content creation. 
+- I am currently married to the absolute love of my life. 💍🎉Jun. 3rd 2023 ❤️🐰 
+- I am absolutely in love with technology, gaming, photography, and content creation. Got into some amature radio but nothing serious. 
 
 <br />
 
